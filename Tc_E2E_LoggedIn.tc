@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>place an order and verify order history</description>
+   <name>Tc_E2E_LoggedIn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fde41f86-f84d-4403-86c0-1d4fce3659a1</testCaseGuid>
+   <variable>
+      <defaultValue>'https://odtaqaa.liverpool.com.mx/tienda/home'</defaultValue>
+      <description></description>
+      <id>39ce90fe-8b80-4a16-925b-88f66c001a86</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'vaso'</defaultValue>
+      <description></description>
+      <id>ac268495-6e69-4251-a12c-306ab766be20</id>
+      <masked>false</masked>
+      <name>SearchTerm</name>
+   </variable>
+   <variable>
+      <defaultValue>'suda.addepalli1@mailinator.com'</defaultValue>
+      <description></description>
+      <id>5bc87291-9301-471f-a521-43a87bb8db73</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test1234$'</defaultValue>
+      <description></description>
+      <id>60cb59f8-bad8-419a-b507-51c9d8ab9a8d</id>
+      <masked>false</masked>
+      <name>password1</name>
+   </variable>
+</TestCaseEntity>
