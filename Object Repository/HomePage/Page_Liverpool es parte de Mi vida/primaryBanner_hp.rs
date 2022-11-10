@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>primaryBanner_hp</name>
+   <tag></tag>
+   <elementGuidId>18199bd6-a61b-4e4a-a33b-917ad122aec6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='bannerNo-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.a_banner_img.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3d04ea19-b0be-4361-8e38-dd1b95080e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a_banner_img lazyloaded</value>
+      <webElementGuid>abc1a48c-1648-44b2-949e-60859f33e313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assetspwa.liverpool.com.mx/assets/digital/home/img/ago22/bc_010822mue.jpg</value>
+      <webElementGuid>2f0b5cd6-e8bb-4b4b-8a62-8bedea930825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Muebles | Liverpool | Liverpool</value>
+      <webElementGuid>f033b30c-f4f5-4bec-95f5-800b319bae6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Muebles | Liverpool</value>
+      <webElementGuid>0000caa2-4de3-4bee-8d52-33f3e415ee8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;min-vh-100&quot;]/div[1]/main[1]/div[1]/div[1]/div[@id=&quot;bannerNo-1&quot;]/section[@id=&quot;bannerNo-1&quot;]/div[@class=&quot;o-mainBanner&quot;]/a[1]/picture[1]/img[@class=&quot;a_banner_img lazyloaded&quot;]</value>
+      <webElementGuid>88b5dc10-da39-4e14-a8ad-95b8ab1be7f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='bannerNo-1']</value>
+      <webElementGuid>dd68543a-3caa-4abb-be52-ef9d6853ed1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Muebles | Liverpool | Liverpool']</value>
+      <webElementGuid>9d139975-2695-4d82-85a3-824751020d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//picture/img</value>
+      <webElementGuid>c645a080-827e-4fb5-ae14-ef133172843d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assetspwa.liverpool.com.mx/assets/digital/home/img/ago22/bc_010822mue.jpg' and @alt = 'Muebles | Liverpool | Liverpool' and @title = 'Muebles | Liverpool']</value>
+      <webElementGuid>636c1dec-89ec-474a-867c-9f1ff3374687</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
